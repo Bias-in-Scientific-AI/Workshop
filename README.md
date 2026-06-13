@@ -1,5 +1,5 @@
 # Bias in Scientific AI Workshop Website
-
+Website: [https://bias-in-scientific-ai.github.io/Workshop/](https://bias-in-scientific-ai.github.io/Workshop/)
 Static GitHub Pages site for the Schmidt Sciences Community Initiative Fund workshop:
 
 **Bias in Scientific AI**  
